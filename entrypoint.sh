@@ -1,1 +1,0 @@
-python /usr/local/attendance/app.py
